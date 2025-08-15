@@ -21,7 +21,7 @@
 ## 🧪 Demo: Vulcanizer Production Planner
 
 Check out [`vulc.html`](./vulc.html) for a live demo of `hx-v2.js` in action.  
-It’s a real-world planner app for managing production batches, FG store, and QR-based packing.
+It’s a real-world planner app for managing production batches,stock.
 
 ---
 
